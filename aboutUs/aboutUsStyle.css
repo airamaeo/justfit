@@ -141,14 +141,14 @@ button:hover {
 
 .trainers-image {
 	position: relative;
-	width: 350px;
+	width: 250px;
 	margin: auto;
 }
 
 .trainers-img {
 	display: block;
-	width: 350px;
-	height: 300px;
+	width: 250px;
+	height: 200px;
 	border-radius: 1%;
 	opacity: 90%;
 }
@@ -158,8 +158,8 @@ button:hover {
 	color: white;
 	top: 0;
 	left: 0;
-	width: 350px;
-	height: 300px;
+	width: 250px;
+	height: 200px;
 	background: rgba(0, 0, 0, 0.8);
 	font-family:fantasy;
 	display: flex;
@@ -243,6 +243,7 @@ button:hover {
 	font-weight: lighter;
 	padding-bottom: 30px;
 	padding-right: 20px;
+	display: inline;
 }
 
 .about-col-2 > p {
